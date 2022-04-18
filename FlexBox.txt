@@ -1,0 +1,13 @@
+# -> ID
+. -> CLASS
+
+align-items:
+justify-content:
+
+.flex-start
+.flex-end
+.center
+.space-around
+.space-between
+
+flex-wrap -> quebra de linha
